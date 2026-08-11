@@ -117,6 +117,3 @@ This project is intended for educational and authorized personal use only. The a
 ```
 
 ---
-
-
-آیا می‌خواهی در قدم بعدی، یک ابزار کمی پیشرفته‌تر (مثلاً یک **اسکنر پورت ساده** یا **مانیتور فایل**) بسازیم تا سطح شبکه‌ات را هم در پایتون بالا ببریم؟
